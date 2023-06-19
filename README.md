@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Greetings](https://github.com/NAIST-SE/SocialDeveloper/actions/workflows/greetings.yml/badge.svg)](https://github.com/NAIST-SE/SocialDeveloper/actions/workflows/greetings.yml)
 
+# DO NOT FORK!
 # Your first Contribution in 6 Steps 
 
 It's hard. It's always hard the first time you do something. This is the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor! Please follow the 6 steps to perform your first contribution. If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
